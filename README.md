@@ -26,10 +26,10 @@ Este projeto está em fase inicial e aberto para sugestões e melhorias.
 
 A engenharia e documentação do projeto est(ar)ão neste repositório:
 
-👉 [sistema_loja-0.1.1] => 'em breve'
+👉 [sistema_loja-0.1.1](docs/arquitetura.md)
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](https://github.com/ivano-lab/erp-agro/LICENSE)
+Este projeto está licenciado sob a [MIT License](https://github.com/ivano-lab/sistema_loja-0.1.1/LICENSE)
 
 
