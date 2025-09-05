@@ -26,7 +26,7 @@ Este projeto está em fase inicial e aberto para sugestões e melhorias.
 
 A engenharia e documentação do projeto est(ar)ão neste repositório:
 
-👉 [sistema_loja-0.1.1](docs/arquitetura.md)
+👉 [sistema_loja-0.1.1](docs/)
 
 ## Licença
 
