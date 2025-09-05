@@ -1,4 +1,4 @@
-from utils.database import Database
+from src.utils.database import Database
 
 db = Database()
 db.criar_tabelas()
